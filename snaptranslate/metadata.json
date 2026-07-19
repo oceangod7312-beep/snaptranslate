@@ -1,0 +1,6 @@
+{
+  "name": "SnapTranslate",
+  "description": "An elegant, responsive visual translator that captures images or accepts uploads, automatically extracts text using OCR, and translates with high-quality Gemini AI.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
